@@ -109,6 +109,10 @@
 * [[Youtube] Deep Neural Networks for YouTube Recommendations (Youtube 2016)](https://gitee.com/cvsuser/DeepLearningPapers/blob/master/Industry%20Recommender%20System/%5BYoutube%5D%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations%20%28Youtube%202016%29.pdf) <br />
 * [[Airbnb] Applying Deep Learning To Airbnb Search (Airbnb 2018)](https://gitee.com/cvsuser/DeepLearningPapers/blob/master/Industry%20Recommender%20System/%5BAirbnb%5D%20Applying%20Deep%20Learning%20To%20Airbnb%20Search%20%28Airbnb%202018%29.pdf) <br />
 
+### Mining of Massive Datasets
+* [Mining of Massive Datasets](https://gitee.com/cvsuser/DeepLearningPapers/blob/master/Mining%20of%20Massive%20Datasets/Mining%20of%20Massive%20Datasets.pdf) <br />
+* [ch9 Recommandation Systems](https://gitee.com/cvsuser/DeepLearningPapers/blob/master/Mining%20of%20Massive%20Datasets/ch9%20Recommandation%20Systems.pdf) <br />
+
 ### Exploration and Exploitation
 * [[EE in Ads] Customer Acquisition via Display Advertising Using MultiArmed Bandit Experiments (UMich 2015)](https://gitee.com/cvsuser/DeepLearningPapers/blob/master/Exploration%20and%20Exploitation/%5BEE%20in%20Ads%5D%20Customer%20Acquisition%20via%20Display%20Advertising%20Using%20MultiArmed%20Bandit%20Experiments%20%28UMich%202015%29.pdf) <br />
 * [[EE in Ads] Exploitation and Exploration in a Performance based Contextual Advertising System (Yahoo 2010)](https://gitee.com/cvsuser/DeepLearningPapers/blob/master/Exploration%20and%20Exploitation/%5BEE%20in%20Ads%5D%20Exploitation%20and%20Exploration%20in%20a%20Performance%20based%20Contextual%20Advertising%20System%20%28Yahoo%202010%29.pdf) <br />
